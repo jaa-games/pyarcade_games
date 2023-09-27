@@ -1,0 +1,14 @@
+[31m[1m _   _                                         
+| | | | __ _ _ __   __ _ _ __ ___   __ _ _ __  
+| |_| |/ _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
+|  _  | (_| | | | | (_| | | | | | | (_| | | | |
+|_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
+                   |___/                       
+
+[32mGame Rules: 
+1: You have 6 tries to guess the correct letters of a randomized word
+2: If you input a correct letter, the Hangman will stay in his current state without losing any of the tries you have.
+3: If you input a wrong letter, then the hangman state will update and you will lose 1 try 
+[39mHint: the word ends with d
+[39mWord is made of 4 letters
+ ____
